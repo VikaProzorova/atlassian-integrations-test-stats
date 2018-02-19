@@ -1,0 +1,10 @@
+/* .SuitStatus {
+    display: block;
+    transform: translateY(calc(50vh - 50%));
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    max-width: 640px;
+    z-index: 10;
+} */

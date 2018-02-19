@@ -1,0 +1,23 @@
+{
+  "name": "jira-tests-stat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@atlaskit/code": "^3.0.5",
+    "@atlaskit/dynamic-table": "^7.1.1",
+    "@atlaskit/icon": "^10.9.1",
+    "@atlaskit/inline-dialog": "^5.2.1",
+    "@atlaskit/modal-dialog": "^3.3.11",
+    "@atlaskit/tabs": "^5.1.2",
+    "react": "^16.2.0",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

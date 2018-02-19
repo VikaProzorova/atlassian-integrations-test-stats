@@ -1,0 +1,7 @@
+.TestStatus {
+    font-family: monospace;
+    padding-bottom: 10px;
+    margin: auto;
+    font-size: 14px;
+    white-space: nowrap;
+}
